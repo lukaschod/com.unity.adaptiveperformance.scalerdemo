@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/000 - Shadow Cascade.unity
+    guid: c68d7a24938147f44a37c133eac05b71
+  - enabled: 1
+    path: Assets/Scenes/000 - Shadow Distance.unity
+    guid: 175f0a6d932b3e344bdbea091977f962
+  - enabled: 1
+    path: Assets/Scenes/000 - Soft Shadows.unity
+    guid: e2cdcda10b33a8940b6517a38ecacdc4
+  - enabled: 1
+    path: Assets/Scenes/000 - Render Scale.unity
+    guid: a73605a8cd645884fabfcc4658c1c669
+  - enabled: 1
+    path: Assets/Scenes/000 - Shadowmap Resolution.unity
+    guid: 0f857988faa32c54aa7a23c574f87a1d
+  - enabled: 1
+    path: Assets/Scenes/000 - MSAA.unity
+    guid: 8600c37a7dda4654aba75b23b5f2a8f0
+  - enabled: 1
+    path: Assets/Scenes/000 - Dynamic Batching.unity
+    guid: c7b65b736143a114fbc29ba363fbb437
+  - enabled: 1
+    path: Assets/Scenes/000 - LOD Bias.unity
+    guid: a4b55e10fc80d864dbbf886c995605ba
+  - enabled: 1
+    path: Assets/Scenes/000 - Texture MipBias.unity
+    guid: b892cded40ebcfb4a9ebfa31c59b94ed
+  - enabled: 1
+    path: Assets/Scenes/000 - Sorting.unity
+    guid: c7ae0bfcc1d8e9f488c9fe073bc15454
+  m_configObjects: {}
